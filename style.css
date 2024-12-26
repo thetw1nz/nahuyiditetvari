@@ -1,0 +1,25 @@
+header {
+    font-size: 47px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+.txt {
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightblue;
+}
+ul {
+    list-style-type: "\1F4A5";
+    font-size: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 45px;
+    background-color: lightblue;
+}
+body{
+    background-image: url(https://crosti.ru/patterns/00/27/e5/69_picture_29ce9401.jpg);
+    background-size: cover;
+}
